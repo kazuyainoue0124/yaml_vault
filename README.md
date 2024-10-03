@@ -77,7 +77,7 @@ vault:
 ```
 
 ```
-% yaml_vault encrypt secrets.yml -o encrypted_secrets.yml"
+% yaml_vault encrypt secrets.yml -o encrypted_secrets.yml
 Enter passphrase: <enter your passphrase>
 ```
 
